@@ -9,6 +9,22 @@ My First Program
 
 
 
+Create a folder in your own repository named "Assignment 2" and put the .java file containing your code inside.
 
 
-Create a folder in yoru own repository named "Assignment 2" and put the .java file containing your code inside.
+public static void main(String[] args) {
+ int intVar = 4;
+ double doubleVar1 = 5.6;
+ float floatVar = 4.5f;
+ String stringVar1 = "Hello World";
+ String stringVar2 = "My First Program";
+ 
+ 
+ System.out.println(intVar);
+ System.out.println(doubleVar1);
+ System.out.println(floatVar);
+ System.out.println(stringVar1);
+ System.out.println(stringVar2);
+ 
+ }
+}
